@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YOvLZDgfKQ0Yk/giphy.gif" alt="Mario gif" height="200" />
+  <img src="https://gifdb.com/images/high/it-worked-happy-mario-6abhdmn868uqxnyy.webp" alt="Mario celebrando" height="200" />
 </div>
 
 ###
