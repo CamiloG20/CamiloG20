@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Ricardo and I'm a Front-end dev 🚀</h1>
+<h1 align="left">Hi 👋! My name is Camilo and I'm a Full-Stack dev 🚀</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyBv1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiloG20&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
 </div>
 
 ###
