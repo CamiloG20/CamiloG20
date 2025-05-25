@@ -42,8 +42,7 @@
 ###
 
 <div align="center">
-  
-  ![snake gif](https://github.com/CamiloG20/CamiloG20/blob/output/github-snake-dark.svg)
+  <img src="https://media.giphy.com/media/YOvLZDgfKQ0Yk/giphy.gif" alt="Mario gif" height="200" />
 </div>
 
 ###
