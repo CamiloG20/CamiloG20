@@ -45,14 +45,6 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CamiloG20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<br/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloG20&layout=compact&theme=github_dark&cache_seconds=1800"/>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/CamiloG20/CamiloG20/output/github-contribution-grid-snake.svg"/>
 
 </div>
