@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="150" src="https://gifdb.com/images/high/it-worked-happy-mario-6abhdmn868uqxnyy.webp" />
+</div>
+
+---
+
+<div align="center">
 
 # Camilo Escudero
 ### Full-Stack Engineer
@@ -10,7 +16,7 @@
 ## About
 
 Full-stack developer focused on building scalable, maintainable web applications.  
-Strong experience with Angular, JavaScript ecosystems, and modern frontend/backend architectures.
+Experience with Angular ecosystems, modern JavaScript, and production-ready systems.
 
 Based in Ecuador.
 
@@ -38,7 +44,7 @@ Based in Ecuador.
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
@@ -47,33 +53,6 @@ Based in Ecuador.
 <br/>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloG20&layout=compact&theme=github_dark"/>
-
-<br/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=CamiloG20&theme=github-dark&hide_border=false"/>
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CamiloG20&theme=darkhub&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CamiloG20/CamiloG20/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/CamiloG20/CamiloG20/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -91,4 +70,10 @@ Based in Ecuador.
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+  <img height="200" src="https://imgcdn.stablediffusionweb.com/2024/9/15/19cefa1e-a87e-4496-b2d4-effcfa4a9f0e.jpg" />
 </div>
