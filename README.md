@@ -15,8 +15,8 @@
 
 ## About
 
-Full-stack developer focused on building scalable, maintainable web applications.  
-Experience with Angular ecosystems, modern JavaScript, and production-ready systems.
+Full-stack engineer building scalable systems with clean architecture and strong frontend performance.  
+Focused on Angular ecosystems, JavaScript architecture, and production-grade applications.
 
 Based in Ecuador.
 
@@ -48,11 +48,15 @@ Based in Ecuador.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CamiloG20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CamiloG20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
 <br/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloG20&layout=compact&theme=github_dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloG20&layout=compact&theme=github_dark&cache_seconds=1800"/>
+
+<br/>
+
+<img src="https://github.com/CamiloG20/CamiloG20/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -70,10 +74,4 @@ Based in Ecuador.
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-  <img height="200" src="https://imgcdn.stablediffusionweb.com/2024/9/15/19cefa1e-a87e-4496-b2d4-effcfa4a9f0e.jpg" />
 </div>
