@@ -134,7 +134,7 @@ React · React Native · JavaScript — sistemas web/móvil en producción (Ecua
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CamiloG20&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" height="170" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloG20&theme=github-dark&hide_border=true&area=true&custom_title=Actividad%20reciente" alt="Gráfica de actividad de GitHub" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Calendario de contribuciones 3D" width="100%" />
 </div>
 
 ---
