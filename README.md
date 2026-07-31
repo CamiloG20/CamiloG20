@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  **Quito, Ecuador** · Remoto / Híbrido / Presencial
+  📍 **Quito, Ecuador** · 🏠 Remoto / Híbrido / Presencial · ✨ Open to opportunities
 
   <br/>
 
@@ -21,35 +21,35 @@
 
 ---
 
-### Sobre mí
+### 👨‍💻 Sobre mí
 
 Software Engineer Full-Stack con **3+ años** construyendo plataformas SaaS multi-tenant y sistemas de negocio en producción (LATAM).
 
-- APIs, módulos multi-tenant y UIs de punta a punta (**NestJS + Vue/Nuxt/React**)
-- Rendimiento, calidad y entrega con **code review, tests y CI/CD**
-- IA aplicada en producto: **Amazon Bedrock · Google Gemini · MCP**
+- 🚀 APIs, módulos multi-tenant y UIs de punta a punta (**NestJS + Vue/Nuxt/React**)
+- ⚡ Rendimiento, calidad y entrega con **code review, tests y CI/CD**
+- 🤖 IA aplicada en producto: **Amazon Bedrock · Google Gemini · MCP**
 
 ---
 
-### Fuera del código
+### 🎯 Fuera del código
 
 Cuando no estoy en el IDE:
 
 | | |
 | --- | --- |
-| **Cerros & aventura** | Hiking / trekking — salir a subir cerros y desconectar |
-| **Nintendo** | Juegos de Nintendo (Switch) para resetear la cabeza |
-| **Sitcoms** | Series de comedia para cerrar el día |
+| ⛰️ **Cerros & aventura** | Hiking / trekking — salir a subir cerros y desconectar |
+| 🎮 **Nintendo** | Juegos de Nintendo (Switch) para resetear la cabeza |
+| 📺 **Sitcoms** | Series de comedia para cerrar el día |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hiking%20%26%20Aventura-2EA44F?style=flat-square" alt="Hiking" />
-  <img src="https://img.shields.io/badge/Nintendo-E60012?style=flat-square&logo=nintendo&logoColor=white" alt="Nintendo" />
-  <img src="https://img.shields.io/badge/Sitcoms-6F42C1?style=flat-square" alt="Sitcoms" />
+  <img src="https://img.shields.io/badge/%E2%9B%B0%EF%B8%8F_Hiking%20%26%20Aventura-2EA44F?style=flat-square" alt="Hiking" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_Nintendo-E60012?style=flat-square&logo=nintendo&logoColor=white" alt="Nintendo" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%BA_Sitcoms-6F42C1?style=flat-square" alt="Sitcoms" />
 </p>
 
 ---
 
-### Stack core
+### 🛠️ Stack core
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -71,65 +71,65 @@ Cuando no estoy en el IDE:
 
 ---
 
-### Experiencia
+### 💼 Experiencia
 
 <details>
-<summary><strong>Software Engineer (parcial) — Centro Médico Vacari</strong> · Jun 2026 – Actualidad</summary>
+<summary>🏥 <strong>Software Engineer (parcial) — Centro Médico Vacari</strong> · Jun 2026 – Actualidad</summary>
 <br/>
 
 `vacari-platform` (privado): React/Vite · Next.js APIs · PostgreSQL/Prisma · Keycloak · Docker · Gemini.
 
-- SPA + 5 APIs modulares: inventario, operaciones, documentos, pagos e importación Excel
-- Auth JWT/Keycloak + despliegue Docker Compose  
-- **Demo:** escríbeme por [LinkedIn](https://www.linkedin.com/in/camilo-escudero-ab0068191/) o [email](mailto:cescuderosoft@gmail.com)
+- 🧩 SPA + 5 APIs modulares: inventario, operaciones, documentos, pagos e importación Excel
+- 🔐 Auth JWT/Keycloak + despliegue Docker Compose  
+- 📩 **Demo:** escríbeme por [LinkedIn](https://www.linkedin.com/in/camilo-escudero-ab0068191/) o [email](mailto:cescuderosoft@gmail.com)
 </details>
 
 <details open>
-<summary><strong>Software Engineer Full-Stack — TwiinsHRM</strong> · Oct 2025 – May 2026</summary>
+<summary>🏢 <strong>Software Engineer Full-Stack — TwiinsHRM</strong> · Oct 2025 – May 2026</summary>
 <br/>
 
 SaaS multi-tenant de HR tech en producción (LATAM). NestJS · TypeScript · Vue 3/Nuxt 3 · MySQL · Docker · AWS.
 
-- **+80%** rendimiento en ranking (TypeORM → SQL nativo + índices MySQL 8)
-- **+15** reportes críticos automatizados (~1–2 h menos de trabajo manual por reporte)
-- Módulo de Reconocimientos end-to-end + **8** integraciones API por tenant
-- **160+** PRs mergeados en monorepo; IA con Bedrock/MCP; descargas S3 pre-firmadas
+- 📈 **+80%** rendimiento en ranking (TypeORM → SQL nativo + índices MySQL 8)
+- ⏱️ **+15** reportes críticos automatizados (~1–2 h menos de trabajo manual por reporte)
+- 🛠️ Módulo de Reconocimientos end-to-end + **8** integraciones API por tenant
+- ✅ **160+** PRs mergeados en monorepo; IA con Bedrock/MCP; descargas S3 pre-firmadas
 </details>
 
 <details>
-<summary><strong>Software Engineer Full-Stack — IDUKAY</strong> · Sep 2023 – Sep 2025</summary>
+<summary>📚 <strong>Software Engineer Full-Stack — IDUKAY</strong> · Sep 2023 – Sep 2025</summary>
 <br/>
 
 Plataforma educativa. Angular · JavaScript · Selenium · Jasmine.
 
-- Librería de **20–40** componentes reutilizables → hasta ~3 h menos por ciclo de feature
-- Automatización E2E con Selenium + Jasmine junto a QA
+- 🧱 Librería de **20–40** componentes reutilizables → hasta ~3 h menos por ciclo de feature
+- 🧪 Automatización E2E con Selenium + Jasmine junto a QA
 </details>
 
 <details>
-<summary><strong>Software Engineer Full-Stack — WIDE-SOLUTIONS</strong> · Nov 2022 – Ago 2023</summary>
+<summary>📱 <strong>Software Engineer Full-Stack — WIDE-SOLUTIONS</strong> · Nov 2022 – Ago 2023</summary>
 <br/>
 
 React · React Native · JavaScript — sistemas web/móvil en producción (Ecuador).
 
-- 3 apps móviles + 1 web empresarial; estabilización de legacy crítico
+- 🚀 3 apps móviles + 1 web empresarial; estabilización de legacy crítico
 </details>
 
 ---
 
-### Trabajo público
+### 📂 Trabajo público
 
 | | Proyecto | Stack |
 | :---: | --- | --- |
-| 01 | **[job-hunter-ai](https://github.com/CamiloG20/job-hunter-ai)** — SaaS multi-tenant de búsqueda de empleo con IA | Vue 3 · NestJS · Gemini |
-| 02 | **[Prueba-Tecnica-Desarrollador](https://github.com/CamiloG20/Prueba-Tecnica-Desarrollador)** — CRUD fullstack + API REST documentada | Angular · PHP · MySQL |
-| 03 | **[Portafolio](https://github.com/CamiloG20/Portafolio)** — [Demo live](https://cescuderog20-portafolio.netlify.app/) | Angular · TypeScript |
+| 🤖 | **[job-hunter-ai](https://github.com/CamiloG20/job-hunter-ai)** — SaaS multi-tenant de búsqueda de empleo con IA | Vue 3 · NestJS · Gemini |
+| 🧾 | **[Prueba-Tecnica-Desarrollador](https://github.com/CamiloG20/Prueba-Tecnica-Desarrollador)** — CRUD fullstack + API REST documentada | Angular · PHP · MySQL |
+| 🌐 | **[Portafolio](https://github.com/CamiloG20/Portafolio)** — [Demo live](https://cescuderog20-portafolio.netlify.app/) | Angular · TypeScript |
 
-> Lo más fuerte (TwiinsHRM / vacari-platform) es privado — **demo bajo solicitud** por LinkedIn o email.
+> 🔒 Lo más fuerte (TwiinsHRM / vacari-platform) es privado — **demo bajo solicitud** por LinkedIn o email.
 
 ---
 
-### Actividad
+### 🐍 Actividad
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/CamiloG20/CamiloG20/output/github-contribution-grid-snake.svg" alt="Snake de contribuciones de GitHub" width="100%" />
@@ -139,10 +139,10 @@ React · React Native · JavaScript — sistemas web/móvil en producción (Ecua
 
 <div align="center">
 
-### ¿Trabajamos juntos?
+### 🤝 ¿Trabajamos juntos?
 
-**Ingeniero en Software** — Universidad Iberoamericana del Ecuador (UNIB.E)  
-Español nativo · Inglés intermedio (B1–B2)
+🎓 **Ingeniero en Software** — Universidad Iberoamericana del Ecuador (UNIB.E)  
+🗣️ Español nativo · 🇬🇧 Inglés intermedio (B1–B2)
 
 Busco roles **Full-Stack / SaaS** (remoto LATAM o híbrido en Quito).
 
