@@ -31,6 +31,24 @@ Software Engineer Full-Stack con **3+ años** construyendo plataformas SaaS mult
 
 ---
 
+### Fuera del código
+
+Cuando no estoy en el IDE:
+
+| | |
+| --- | --- |
+| **Cerros & aventura** | Hiking / trekking — salir a subir cerros y desconectar |
+| **Nintendo** | Juegos de Nintendo (Switch) para resetear la cabeza |
+| **Sitcoms** | Series de comedia para cerrar el día |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hiking%20%26%20Aventura-2EA44F?style=flat-square" alt="Hiking" />
+  <img src="https://img.shields.io/badge/Nintendo-E60012?style=flat-square&logo=nintendo&logoColor=white" alt="Nintendo" />
+  <img src="https://img.shields.io/badge/Sitcoms-6F42C1?style=flat-square" alt="Sitcoms" />
+</p>
+
+---
+
 ### Stack core
 
 <p align="center">
