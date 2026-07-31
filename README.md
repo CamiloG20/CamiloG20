@@ -25,26 +25,33 @@
 
 Software Engineer Full-Stack con **3+ años** construyendo plataformas SaaS multi-tenant y sistemas de negocio en producción (LATAM).
 
+**En lo laboral**
 - 🚀 APIs, módulos multi-tenant y UIs de punta a punta (**NestJS + Vue/Nuxt/React**)
 - ⚡ Rendimiento, calidad y entrega con **code review, tests y CI/CD**
 - 🤖 IA aplicada en producto: **Amazon Bedrock · Google Gemini · MCP**
+
+**En lo personal** recargo energía con lectura, cerros e incursiones, básquet, natación, videojuegos y Scouts — disciplina, comunidad y ganas del siguiente reto.
 
 ---
 
 ### 🎯 Fuera del código
 
-Cuando no estoy en el IDE:
-
 | | |
 | --- | --- |
-| ⛰️ **Cerros & aventura** | Hiking / trekking — salir a subir cerros y desconectar |
-| 🎮 **Nintendo** | Juegos de Nintendo (Switch) para resetear la cabeza |
-| 📺 **Sitcoms** | Series de comedia para cerrar el día |
+| 📚 **Lectura** | Ampliar perspectiva y seguir aprendiendo fuera del IDE |
+| ⛰️ **Cerros e incursiones** | Caminar, subir cerros y explorar rutas |
+| 🏀 **Básquet** | Ritmo de equipo y decisiones rápidas |
+| 🏊 **Natación** | Ritmo, resistencia y reset mental |
+| 🎮 **Videojuegos** | Estrategia y resolución de problemas en otro formato |
+| ⚜️ **Scouts** | Servicio, liderazgo y trabajo en equipo |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9B%B0%EF%B8%8F_Hiking%20%26%20Aventura-2EA44F?style=flat-square" alt="Hiking" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_Nintendo-E60012?style=flat-square&logo=nintendo&logoColor=white" alt="Nintendo" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%BA_Sitcoms-6F42C1?style=flat-square" alt="Sitcoms" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A_Lectura-2563EB?style=flat-square" alt="Lectura" />
+  <img src="https://img.shields.io/badge/%E2%9B%B0%EF%B8%8F_Cerros-1E3A5F?style=flat-square" alt="Cerros" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%80_B%C3%A1squet-F97316?style=flat-square" alt="Básquet" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%8A_Nataci%C3%B3n-0EA5E9?style=flat-square" alt="Natación" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_Videojuegos-6B7280?style=flat-square" alt="Videojuegos" />
+  <img src="https://img.shields.io/badge/%E2%9A%A4_Scouts-111827?style=flat-square" alt="Scouts" />
 </p>
 
 ---
