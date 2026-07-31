@@ -21,15 +21,6 @@
 
 ---
 
-### Impacto (lo que verás en 5 segundos)
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **160+** PRs mergeados | **+80%** queries críticas | **4+** tenants SaaS | **7** países LATAM |
-| en 8 meses (TwiinsHRM) | ranking MySQL 8 | HR tech en producción | usuarios atendidos |
-
----
-
 ### Sobre mí
 
 - Diseño e implemento **APIs, módulos multi-tenant y UIs** de punta a punta (NestJS + Vue/Nuxt/React)
@@ -85,9 +76,19 @@
 
 ---
 
-### Experiencia reciente
+### Experiencia
 
 <details open>
+<summary><strong>Software Engineer (parcial) — Centro Médico Vacari</strong> · Jun 2026 – Actualidad</summary>
+<br/>
+
+`vacari-platform` (privado — demo bajo solicitud): React/Vite · Next.js APIs · PostgreSQL/Prisma · Keycloak · Docker · Gemini.
+
+- SPA + 5 APIs modulares: inventario, operaciones, documentos, pagos e importación Excel
+- Auth JWT/Keycloak + despliegue Docker Compose
+</details>
+
+<details>
 <summary><strong>Software Engineer Full-Stack — TwiinsHRM</strong> · Oct 2025 – May 2026</summary>
 <br/>
 
@@ -97,16 +98,6 @@ SaaS multi-tenant de HR tech en producción (LATAM). NestJS · TypeScript · Vue
 - **+15** reportes críticos automatizados (~1–2 h menos de trabajo manual por reporte)
 - Módulo de Reconocimientos end-to-end + **8** integraciones API por tenant
 - **160+** PRs mergeados en monorepo; IA con Bedrock/MCP; descargas S3 pre-firmadas
-</details>
-
-<details>
-<summary><strong>Software Engineer (parcial) — Centro Médico Vacari</strong> · Jun 2026 – Actualidad</summary>
-<br/>
-
-`vacari-platform` (privado — demo bajo solicitud): React/Vite · Next.js APIs · PostgreSQL/Prisma · Keycloak · Docker · Gemini.
-
-- SPA + 5 APIs modulares: inventario, operaciones, documentos, pagos e importación Excel
-- Auth JWT/Keycloak + despliegue Docker Compose
 </details>
 
 <details>
@@ -142,12 +133,7 @@ React · React Native · JavaScript — sistemas web/móvil en producción (Ecua
 
 ---
 
-### GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CamiloG20&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloG20&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-</div>
+### Actividad
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/CamiloG20/CamiloG20/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
