@@ -1,94 +1,72 @@
 <div align="center">
+  <a href="https://github.com/CamiloG20">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:161B22&height=180&section=header&text=Camilo%20Escudero&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack&descAlignY=55&descSize=16&descColor=8B949E" alt="Camilo Escudero" width="100%" />
+  </a>
 
-# Camilo Escudero
-### Software Engineer · Full-Stack (SaaS · APIs · Cloud)
+  <br/>
 
-**Quito, Ecuador** · Remoto / Híbrido / Presencial · Open to opportunities
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=SaaS+multi-tenant+%C2%B7+APIs+%C2%B7+Cloud;NestJS+%C2%B7+Vue%2FNuxt+%C2%B7+React+%C2%B7+AWS;Open+to+Full-Stack+%2F+SaaS+roles+(remote+LATAM)" alt="Typing headline" />
 
-<br/>
+  <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cescuderog20-portafolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-escudero-ab0068191/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cescuderosoft@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/cescuderosoft)
+  **Quito, Ecuador** · Remoto / Híbrido / Presencial
 
-<br/>
+  <br/>
 
-> Software Engineer Full-Stack con **3+ años** construyendo plataformas SaaS multi-tenant y sistemas de negocio en producción.
-> Stack principal: **TypeScript · NestJS · Vue 3/Nuxt 3 · React · MySQL/PostgreSQL · AWS · Docker**.
-
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cescuderog20-portafolio.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-escudero-ab0068191/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cescuderosoft@gmail.com)
+  [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/cescuderosoft)
 </div>
 
 ---
 
 ### Sobre mí
 
-- Diseño e implemento **APIs, módulos multi-tenant y UIs** de punta a punta (NestJS + Vue/Nuxt/React)
-- Optimizo rendimiento, automatizo reportes y subo calidad con **code review, tests y CI/CD**
-- Aplico IA en producto real: **Amazon Bedrock, Google Gemini, MCP**
-- Ahora (parcial): construyo **vacari-platform** — SPA + microservicios para digitalizar un centro médico
+Software Engineer Full-Stack con **3+ años** construyendo plataformas SaaS multi-tenant y sistemas de negocio en producción (LATAM).
+
+- APIs, módulos multi-tenant y UIs de punta a punta (**NestJS + Vue/Nuxt/React**)
+- Rendimiento, calidad y entrega con **code review, tests y CI/CD**
+- IA aplicada en producto: **Amazon Bedrock · Google Gemini · MCP**
 
 ---
 
-### Stack principal
+### Stack core
 
-**Lenguajes & runtime**
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt 3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Bedrock" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Backend & APIs**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_API-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-
-**Frontend**
-
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt 3](https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Datos**
-
-![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
-**Cloud, DevOps & IA**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+<p align="center">
+  <sub>También: Angular · React Native · Prisma · Redis · DynamoDB · Keycloak · Next.js APIs · GitHub Actions</sub>
+</p>
 
 ---
 
 ### Experiencia
 
-<details open>
+<details>
 <summary><strong>Software Engineer (parcial) — Centro Médico Vacari</strong> · Jun 2026 – Actualidad</summary>
 <br/>
 
-`vacari-platform` (privado — demo bajo solicitud): React/Vite · Next.js APIs · PostgreSQL/Prisma · Keycloak · Docker · Gemini.
+`vacari-platform` (privado): React/Vite · Next.js APIs · PostgreSQL/Prisma · Keycloak · Docker · Gemini.
 
 - SPA + 5 APIs modulares: inventario, operaciones, documentos, pagos e importación Excel
-- Auth JWT/Keycloak + despliegue Docker Compose
+- Auth JWT/Keycloak + despliegue Docker Compose  
+- **Demo:** escríbeme por [LinkedIn](https://www.linkedin.com/in/camilo-escudero-ab0068191/) o [email](mailto:cescuderosoft@gmail.com)
 </details>
 
-<details>
+<details open>
 <summary><strong>Software Engineer Full-Stack — TwiinsHRM</strong> · Oct 2025 – May 2026</summary>
 <br/>
 
@@ -121,22 +99,22 @@ React · React Native · JavaScript — sistemas web/móvil en producción (Ecua
 
 ---
 
-### Trabajo público seleccionado
+### Trabajo público
 
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| [job-hunter-ai](https://github.com/CamiloG20/job-hunter-ai) | SaaS multi-tenant de búsqueda de empleo con IA | Vue 3 · NestJS · SQLite · Gemini |
-| [Prueba-Tecnica-Desarrollador](https://github.com/CamiloG20/Prueba-Tecnica-Desarrollador) | CRUD fullstack + API REST documentada | Angular · PHP · MySQL |
-| [Portafolio](https://github.com/CamiloG20/Portafolio) | Sitio de portafolio | Angular · TypeScript · SCSS |
+| | Proyecto | Stack |
+| :---: | --- | --- |
+| 01 | **[job-hunter-ai](https://github.com/CamiloG20/job-hunter-ai)** — SaaS multi-tenant de búsqueda de empleo con IA | Vue 3 · NestJS · Gemini |
+| 02 | **[Prueba-Tecnica-Desarrollador](https://github.com/CamiloG20/Prueba-Tecnica-Desarrollador)** — CRUD fullstack + API REST documentada | Angular · PHP · MySQL |
+| 03 | **[Portafolio](https://github.com/CamiloG20/Portafolio)** — [Demo live](https://cescuderog20-portafolio.netlify.app/) | Angular · TypeScript |
 
-> El trabajo más fuerte (TwiinsHRM / vacari-platform) es privado. **Demo bajo solicitud.**
+> Lo más fuerte (TwiinsHRM / vacari-platform) es privado — **demo bajo solicitud** por LinkedIn o email.
 
 ---
 
 ### Actividad
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CamiloG20/CamiloG20/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/CamiloG20/CamiloG20/output/github-contribution-grid-snake.svg" alt="Snake de contribuciones de GitHub" width="100%" />
 </div>
 
 ---
@@ -148,6 +126,10 @@ React · React Native · JavaScript — sistemas web/móvil en producción (Ecua
 **Ingeniero en Software** — Universidad Iberoamericana del Ecuador (UNIB.E)  
 Español nativo · Inglés intermedio (B1–B2)
 
-[Portfolio](https://cescuderog20-portafolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/camilo-escudero-ab0068191/) · [Email](mailto:cescuderosoft@gmail.com) · [GitLab](https://gitlab.com/cescuderosoft)
+Busco roles **Full-Stack / SaaS** (remoto LATAM o híbrido en Quito).
+
+[Portfolio](https://cescuderog20-portafolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/camilo-escudero-ab0068191/) · [Email](mailto:cescuderosoft@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:161B22,100:0D1117&height=80&section=footer" width="100%" alt="" />
 
 </div>
